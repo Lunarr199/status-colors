@@ -1,0 +1,16 @@
+/**
+* @name StatusColors
+* @author lunar1um
+* @description Simple CSS script that allows you to modify Discord's default status colors!
+* @version 1.0
+*/
+
+@import url(https://raw.githubusercontent.com/Lunarr199/status-colors/refs/heads/main/src.css);
+
+:root {
+    --online: #9de499;
+    --dnd: #de5454;
+    --idle: #e29d81;
+    --streaming: #9147ff;
+    --offline: #525356;
+}
